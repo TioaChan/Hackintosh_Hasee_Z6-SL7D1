@@ -1,1 +1,1 @@
-##Clover boot for SL7D1 hackintosh
+#Clover boot for SL7D1 hackintosh
