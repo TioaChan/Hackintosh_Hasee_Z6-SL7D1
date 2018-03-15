@@ -392,6 +392,8 @@
 				<data>
 				iUXIOcZ2UQ==
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
@@ -408,6 +410,8 @@
 				<data>
 				AEFQUExFIFNTRAA=
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
@@ -425,6 +429,8 @@
 				AAAIAAIAAACYAAAAAQUJAAAEAACHAQAAAgQKAAAEAACH
 				AQAA/wAAAAEAAAAgAAAA
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
@@ -442,6 +448,8 @@
 				<data>
 				AQMDAwAAIAIAAFABAAAAYA==
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
@@ -458,6 +466,8 @@
 				<data>
 				AQAAdSU=
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOGraphicsFamily</string>
 				<key>Replace</key>
@@ -477,17 +487,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>08/08/2017</string>
+		<string>02/08/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP143.88Z.0167.B00.1708080129</string>
+		<string>MBP133.88Z.0242.B00.1802080916</string>
 		<key>Board-ID</key>
-		<string>Mac-551B86E5744E2388</string>
+		<string>Mac-A5C67F76ED83108C</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02737200OPDP00JA</string>
+		<string>C02619700GUF504JC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -501,7 +511,7 @@
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE13E</string>
+		<string>0xFC0FE13F</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
@@ -513,11 +523,11 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro14,3</string>
+		<string>MacBookPro13,3</string>
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir6,2 until Clover has support for Skylake identifiers</string>
 		<key>SerialNumber</key>
-		<string>C02VDZMLHTD5</string>
+		<string>C02RQ2FXGTFN</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
