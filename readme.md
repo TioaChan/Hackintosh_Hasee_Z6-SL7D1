@@ -1,9 +1,9 @@
-#Hasee Z6-SL7D1 Hackintosh
+# Hasee Z6-SL7D1 Hackintosh
 
 ---
 
 
-##系统信息
+## 系统信息
 - 笔记本型号：神舟Hasee 战神Z6-SL7D1
 
 - 操作系统：Microsoft Windows 10 专业版 (BUILD:15063) (64 位)
@@ -51,7 +51,7 @@
 
 
 
-##备注
+## 备注
 
 - 部分Clover.plist文件修改来自：[神舟Z6-SL7D1黑苹果逐渐趋于完美-黑苹果-好咧](http://www.haolie.net/thread-683.htm)
 
